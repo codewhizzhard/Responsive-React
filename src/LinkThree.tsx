@@ -1,9 +1,8 @@
 import img from "./assets/Donut Chart 2.svg"
 import loading from "./assets/Donut Chart 3.svg"
 
-type Props = {}
 
-const LinkThree = (props: Props) => {
+const LinkThree = () => {
   return (
     <section  id="linkthree"  className="w-[88%] mx-auto  py-12 border-b-2 border-solid mm:py-24">
         <h3 className="text-4xl font-semibold text-center">Our Approach to UX Design</h3>
