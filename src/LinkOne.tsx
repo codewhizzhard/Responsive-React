@@ -1,5 +1,5 @@
 import img from "./assets/clint-patterson-dYEuFB8KQJk-unsplash.jpg"
-type Props = {}
+
 
 const LinkOne = () => {
   return (
