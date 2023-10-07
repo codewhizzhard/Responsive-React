@@ -21,7 +21,7 @@ const Header = ({isOnTop}: Props) => {
     const [selected, setSelected]  = useState<SelectedPage>(SelectedPage.Home)
 
     const flex = "flex justify-between"
-    const isAboveWidth = maxWidth("(min-width: 900px)")
+    const isAboveWidth = maxWidth("(min-width: 950px)")
     const topOfPage = !isOnTop && "bg-red-200 transition duration-200"
 
     const date = new Date()

@@ -22,7 +22,7 @@ export default {
       },
       screens: {
         mm: "1060px",
-        mw: "900px"
+        mw: "950px"
       }
     },
   },
